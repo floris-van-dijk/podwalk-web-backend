@@ -1,0 +1,16 @@
+spring.datasource.url=
+spring.datasource.username=
+spring.datasource.password=
+
+spring.jpa.properties.hibernate.dialect =
+
+spring.jpa.hibernate.ddl-auto =
+
+server.error.include-message=
+server.port=
+
+server.servlet.context-path=
+jwt.secret=
+jwt.expiration=
+
+frontend.url=
